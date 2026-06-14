@@ -68,3 +68,8 @@ pip install -r requirements.txt
 
 ### 3. Run Streamlit app
 streamlit run app.py
+
+## Author
+
+Beldjilali Bouchra
+Data Analyst Portfolio Project
