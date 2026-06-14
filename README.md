@@ -61,7 +61,6 @@ An interactive Streamlit dashboard was built to:
 ## How to Run This Project
 
 ### 1. Clone repository
-```bash
 git clone https://github.com/your-username/passenger-satisfaction-project.git
 
 ### 2. Install requirements
