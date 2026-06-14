@@ -64,4 +64,8 @@ An interactive Streamlit dashboard was built to:
 ```bash
 git clone https://github.com/your-username/passenger-satisfaction-project.git
 
+### 2. Install requirements
+pip install -r requirements.txt
 
+### 3. Run Streamlit app
+streamlit run app.py
