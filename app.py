@@ -481,7 +481,7 @@ The airport is performing better for occasional users, but underperforming for h
 
 st.header("Predictive Model (Logistic Regression)")
 
-importance = pd.read_csv(r"C:\Users\HP\Downloads\importance.csv")
+importance = pd.read_csv(r"importance.csv")
 st.dataframe(importance.head(10))
 st.write(""" 1. What drives satisfaction (strong positive factors)
 
