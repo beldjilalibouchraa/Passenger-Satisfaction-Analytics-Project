@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.title("Passenger Satisfaction Analysis")
 
-df = pd.read_csv(r"C:\Users\HP\Downloads\passenger_survey_balanced.csv")
+df = pd.read_csv(r"passenger_survey_balanced.csv")
 
 st.header("Business Problem")
 
