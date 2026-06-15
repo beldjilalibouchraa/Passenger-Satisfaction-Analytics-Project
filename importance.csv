@@ -1,0 +1,39 @@
+feature,coef
+boarding_lounge_comfort,1.3336834124235972
+baggage_claim_process,1.1083764471618913
+trip_purpose_Sports,0.965749793420831
+trip_purpose_Legal/embassy,0.6782746668884162
+food_beverage_quality_variety,0.6709714364101836
+security_screening_process,0.6622291122208275
+checkin_process,0.6272299907082245
+airport_internet,0.5000165909509299
+restroom_cleanliness,0.4484828455180658
+trip_purpose_Religious/mission,0.38641305465321635
+trip_purpose_Relocation/return home,0.29813995629603074
+trip_purpose_Study/conference,0.2710226074855934
+trip_purpose_Family,0.20630204125413723
+internet_connection_speed,0.10065435178661344
+trip_purpose_Exam/selection process,0.05235721326842642
+trip_purpose_Leisure and business,0.0367528563711397
+gender_Male,0.03297145945923895
+flight_type_International,0.021976377915129394
+trip_purpose_Leisure,-0.034422301279602364
+trip_purpose_Wedding,-0.05852788164771078
+household_income_Between 2 and 4 minimum wages,-0.06309262494052591
+trip_purpose_Funeral,-0.10084711458588438
+household_income_Up to 1 minimum wage,-0.10418316261814732
+trip_purpose_Health,-0.11074121636959292
+traveling_alone_Yes,-0.14172518324876301
+trip_purpose_Shopping,-0.17926706663590108
+trip_purpose_Other,-0.1941703000500696
+age_group_46 to 55 years,-0.21283799304269077
+household_income_Other,-0.2200015969975197
+age_group_36 to 45 years,-0.22290969237819197
+household_income_Between 10 and 20 minimum wages,-0.2514704201557772
+age_group_26 to 35 years,-0.2722256895639968
+household_income_Between 4 and 10 minimum wages,-0.27519286927030817
+age_group_56 to 65 years,-0.3781833343664032
+trip_purpose_Unknown/no answer,-0.3813491907374222
+age_group_Over 65 years,-0.40706082790828296
+household_income_More than 20 minimum wages,-0.4207976445461088
+household_income_Prefer not to say,-0.4745575775731891
